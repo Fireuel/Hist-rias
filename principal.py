@@ -23,19 +23,29 @@ Mitologicamente, Jaci é identificada com Diana dos romanos, Xochiquetzal dos az
 
 Saci = """O Saci é retratado como um menino negro, pré-adolescente, com cerca de 11 anos. Ele possui apenas uma perna e veste um gorro vermelho que lhe confere poderes mágicos. Suas principais travessuras incluem trançar o rabo dos animais durante a noite, esconder objetos como dedais de costureiras, assobiar estridentemente para assustar viajantes, trocar o recipiente de sal pelo de açúcar e distrair cozinheiras para queimarem a comida. Além disso, o Saci é o guardião das ervas e plantas medicinais, confundindo quem tenta pegá-las sem autorização."""
 
-Curupira = ""
+Curupira = """O Curupira é retratado frequentemente como um anão que possui os cabelos vermelhos e os pés ao contrário (com os calcanhares para frente). É importante reforçar que a descrição física do Curupira pode variar de acordo com o local em que a lenda é reproduzida. Em certos locais, o Curupira é careca; em outros, tem o corpo cabeludo e dentes verdes. De toda forma, as características que se sobressaem são as citadas: baixa estatura, cabelos vermelhos e pés ao contrário. Além disso, destaca-se sua grande força física."""
 
-Lobisomem = ""
+Lobisomem = """O lobisomem, uma das lendas mais conhecidas em todo o mundo, fala de homens que têm a capacidade de transformar-se em lobos. Essa prática era considerada uma maldição, chamada de licantropia, e a primeira menção a ela foi registrada na mitologia grega.
 
-Zumbi_dos_Palmares = ""
+A origem da lenda do lobisomem é europeia e provavelmente se disseminou a partir do século XVI. Entretanto, ela aparece em alguns mitos gregos, como em Licaão e Damarco. Reza a lenda que, inicialmente, um homem foi mordido por um lobo e ficou enfeitiçado. Assim, nas noites de lua cheia, ele se transformava, adquirindo garras de lobo e um corpo coberto de pelos, e saía uivando em busca de seu alimento predileto: sangue."""
 
-Dandara = ""
+Zumbi_dos_Palmares = """Zumbi dos Palmares (1655-1695) foi o último líder do Quilombo dos Palmares e também o de maior relevância histórica. Ele ganhou respeito e admiração de seus compatriotas quilombolas devido às suas habilidades como guerreiro, que lhe conferiam coragem, liderança e conhecimentos de estratégia militar.
 
-Tiradentes = ""
+Zumbi dos Palmares é um símbolo pela liberdade dos negros na história brasileira e sua morte é celebrada como o Dia da Consciência Negra no Brasil
+"""
 
-Dom_Pedro1 = ""
+Dandara = """Dandara dos Palmares foi uma das grandes personalidades do Quilombo dos Palmares. Ela era uma mulher guerreira e liderou tropas na luta dos palmaristas contra os portugueses. Infelizmente, os historiadores sabem muito pouco sobre sua vida, mas há alguns destaques importantes"""
 
-Irmã_Dulce = ""
+Tiradentes = """Tiradentes, cujo nome completo era Joaquim José da Silva Xavier, foi um dos líderes da Inconfidência Mineira, um movimento que buscava a independência do Brasil em relação a Portugal. Sua história é marcada por coragem, idealismo e sacrifício."""
+
+Dom_Pedro1 = """Dom Pedro I é um dos grandes nomes da história do Brasil. Foi um dos condutores do processo de independência, além de ter sido imperador brasileiro de 1822 a 1831. Filho de D. João VI, rei de Portugal, Dom Pedro I ficou conhecido ao longo de sua vida por ser impulsivo e mulherengo.
+Durante seu reinado sobre o Brasil, a sua grande marca foi o autoritarismo e, por esse motivo, sua relação com as elites do Brasil desgastou-se ao ponto de D. Pedro renunciar ao trono, em 1831. Depois disso, retornou a Portugal, onde lutou na Guerra Civil Portuguesa, em defesa do direito de sua filha d. Maria assumir o trono português."""
+
+Irmã_Dulce = """Irmã Dulce (1914-1992) foi uma religiosa católica brasileira que dedicou a sua vida a ajudar os doentes e os mais necessitados.
+Irmã Dulce foi beatificada pelo Papa Bento XVI, no dia 10 de dezembro de 2010, passando a ser reconhecida com o título de "Bem-aventurada Dulce dos Pobres". Foi declarada santa pelo Papa Francisco em uma celebração no Vaticano no dia 13 de outubro de 2019.
+Maria Rita de Souza Brito Lopes Pontes nasceu em Salvador, Bahia, no dia 26 de maio de 1914. Filha de Augusto Lopes Pontes, dentista e professor da Universidade Federal da Bahia, e de Dulce Maria de Souza Brito Lopes Pontes.
+Desde criança, Irmã Dulce desejava seguir a vida religiosa e, rezava muito, pedindo algum sinal que mostrasse se deveria ou não seguir esse caminho.
+Ainda na adolescência, começou a desenvolver a sua missão de ajudar os mendigos, carentes e enfermos."""
 
 
 cor_bt = "black"
